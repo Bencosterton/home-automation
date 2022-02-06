@@ -15,3 +15,12 @@ where
 In your case it would be:
 
 55 23 * * * /path/to/yourShellScript
+
+
+############################################################
+
+00 09,13 * * * /home/USER/timedbeep.sh
+15 10,14 * * * /home/USER/timedbeep.sh
+30 03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22 * * * /home/USER/timedbeep.sh
+# 35 12 * * * /home/USER/timedbeep.sh Wesnesday Sports News
+45 05,12,15 * * * /home/USER/timedbeep.sh
