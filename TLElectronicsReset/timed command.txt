@@ -1,7 +1,0 @@
-input for terminal:
-
-at [enter time]
-
-./timedbeep.sh
-
-[shift+D] to close command
