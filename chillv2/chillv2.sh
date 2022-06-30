@@ -19,7 +19,7 @@ echo "${info}${bold}Now Chill${reset}"
 
 # Racoon image
 function racoon_image () {
-feh https://chillhop.com/wp-content/uploads/2020/06/Chillhop-Radio-v2-300x300.jpg
+feh https://github.com/Bencosterton/home-automation/blob/main/chillv2/racoon.jpg
 }
 
 
