@@ -8,6 +8,6 @@ then
 
 else
 
-    mpv https://www.youtube.com/watch?v=5qap5aO4i9A --no-video >> /dev/null
+    mpv https://www.youtube.com/watch?v=jfKfPfyJRdk --no-video >> /dev/null
 
 fi
